@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: https://tad.taslife.com.ua/
+Sitemap: https://tad.taslife.com.ua/sitemap.xml
